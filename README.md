@@ -112,6 +112,12 @@ I'm currently working on my first projects. They will be published here soon.
 
 <!-- LinkedIn will be added soon -->
 
+##  Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nahuesg/nahuesg/output/minesweeper-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nahuesg/nahuesg/output/minesweeper-contribution-graph.svg">
+  <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/nahuesg/nahuesg/output/minesweeper-contribution-graph.svg">
+</picture>
 
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
